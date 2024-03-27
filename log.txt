@@ -1,0 +1,6 @@
+1711458909828 IN: /converter {value=90 to=kg } OUT: 200 40.82373219631679
+1711458915382 IN: /converter {value=100 to=kg } OUT: 200 45.35970244035199
+1711458923385 IN: /converter {value=110 to=lbs } OUT: 200 242.506
+1711458929201 IN: /logs {} OUT: 200 logs
+1711458976243 IN: /converter {value=88 to=lbs } OUT: 200 194.00480000000002
+1711459006573 IN: /converter {value=240 to=lbs } OUT: 200 529.104
